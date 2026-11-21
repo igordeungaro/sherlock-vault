@@ -123,3 +123,12 @@ Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 
 [ext_pypi]: https://pypi.org/project/sherlock-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/sherlock-project/sherlock
